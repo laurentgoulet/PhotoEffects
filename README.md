@@ -1,0 +1,1 @@
+﻿This repository contains a simple script to annotate pictures with the picture's EXIF timestamp on the bottom right corner.
